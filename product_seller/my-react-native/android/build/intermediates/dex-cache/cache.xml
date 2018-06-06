@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="E:\sdk\extras\android\m2repository\com\android\support\support-annotations\24.0.0\support-annotations-24.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
+        <dex dex="D:\tmp525\react-native-shop-ui-master\android\app\build\intermediates\pre-dexed\debug\support-annotations-24.0.0_edadc2769d1dac0def0169b50db6909152bd0250.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\tmp525\react-native-shop-ui-master\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline-okhttp3\1.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ba9b39366b723ccff6359d1117332968e98a4aca">
+        <dex dex="D:\tmp525\react-native-shop-ui-master\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-imagepipeline-okhttp3-1.0.1_9dc27998b3c87f44d2328909dae2b72095893433.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp-urlconnection\3.6.0\3f9b16b774f2c36cfd86dd2053d0b3059531dacc\okhttp-urlconnection-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="3f9b16b774f2c36cfd86dd2053d0b3059531dacc">
+        <dex dex="D:\tmp525\react-native-shop-ui-master\android\app\build\intermediates\pre-dexed\debug\okhttp-urlconnection-3.6.0_0ea5209902ea96d95d6561e891859d3c099475dd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-tasks\1.4.0\d85884acf6810a3bbbecb587f239005cbc846dc4\bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="D:\tmp525\react-native-shop-ui-master\android\app\build\intermediates\pre-dexed\debug\bolts-tasks-1.4.0_c64325f78a24c085b700c554244dc03fa6bc6a89.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.google.code.findbugs\jsr305\3.0.0\5871fb60dc68d67da54a663c3fd636a10a532948\jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="D:\tmp525\react-native-shop-ui-master\android\app\build\intermediates\pre-dexed\debug\jsr305-3.0.0_a971f67c50848f35eab062a5cec0856f32aa537b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\tmp525\react-native-shop-ui-master\android\app\build\intermediates\exploded-aar\com.facebook.soloader\soloader\0.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="D:\tmp525\react-native-shop-ui-master\android\app\build\intermediates\pre-dexed\debug\com.facebook.soloader-soloader-0.1.0_e006e82d9b703c6652b9ff65234b14933d9ae08b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\tmp525\react-native-shop-ui-master\android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\10.2.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="9ed08fab37c3a572da1d9ed2bf2e36c8d3e2bc48">
+        <dex dex="D:\tmp525\react-native-shop-ui-master\android\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-basement-10.2.4_34fc98fed21dce78ea4c64d9e0d6b0d71f07707c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\tmp525\react-native-shop-ui-master\android\app\build\intermediates\exploded-aar\com.facebook.react\react-native\0.46.2\jars\libs\infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="D:\tmp525\react-native-shop-ui-master\android\app\build\intermediates\pre-dexed\debug\infer-annotations-4.0_04cd241cb518ced1cf7b30f2298f4131ee4d5c2e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\tmp525\react-native-shop-ui-master\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline\1.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d9c4402c3057225d80cbbbec52154e7a25b0ebdf">
+        <dex dex="D:\tmp525\react-native-shop-ui-master\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-imagepipeline-1.0.1_402e6f4c1b79c7ed7ea62e34b46cca8d31587ec3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.13.0\a9283170b7305c8d92d25aff02a6ab7e45d06cbe\okio-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="D:\tmp525\react-native-shop-ui-master\android\app\build\intermediates\pre-dexed\debug\okio-1.13.0_f63c7ab08dbed3c34e0fe0b9b1a691240ffa1bb7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\tmp525\react-native-shop-ui-master\android\app\build\intermediates\exploded-aar\com.facebook.fresco\fresco\1.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="cf836a435a496eb22ff2aa69aa1e619462549f81">
+        <dex dex="D:\tmp525\react-native-shop-ui-master\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-fresco-1.0.1_ef052f8f90f7dee4cbe2b68789530f00c2e0b0aa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\tmp525\react-native-shop-ui-master\android\app\build\intermediates\exploded-aar\Shop\react-native-maps\unspecified\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="4a5cfa49f964d9ec42d13b5c2f8bc222d2a8feab">
+        <dex dex="D:\tmp525\react-native-shop-ui-master\android\app\build\intermediates\pre-dexed\debug\Shop-react-native-maps-unspecified_1881ce30b1ab897b086bcc6cdafe0501ee047a8f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\tmp525\react-native-shop-ui-master\android\app\build\intermediates\exploded-aar\com.facebook.fresco\fbcore\1.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="2668e49e4e31c7d451b76a36009b902bf44e0d70">
+        <dex dex="D:\tmp525\react-native-shop-ui-master\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-fbcore-1.0.1_1c987b173041fa6a0d22de8a1d5727e82fe29ca9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\tmp525\react-native-shop-ui-master\android\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="D:\tmp525\react-native-shop-ui-master\android\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.0.1_dc4eb06a63138960996ff7772e8eef4ff788d8ef.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\tmp525\react-native-shop-ui-master\android\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="D:\tmp525\react-native-shop-ui-master\android\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.0.0_82b9659ef969d9a5215d5ec92703e3b1a68642e2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\tmp525\react-native-shop-ui-master\android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\10.2.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="dd1d0d84da2cff18f741c63a9c3af7d9aa89fdd6">
+        <dex dex="D:\tmp525\react-native-shop-ui-master\android\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-base-10.2.4_f8cff15a9b9ad9ea5bffca4cffeb78ac186d0c17.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\tmp525\react-native-shop-ui-master\android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\10.2.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5803db663655ef5cb38c6bcb17ba326fdb9edfbd">
+        <dex dex="D:\tmp525\react-native-shop-ui-master\android\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-tasks-10.2.4_74402f944496641a2a88241fde8c76c6557b7038.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.6.0\69edde9fc4b01c9fd51d25b83428837478c27254\okhttp-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="D:\tmp525\react-native-shop-ui-master\android\app\build\intermediates\pre-dexed\debug\okhttp-3.6.0_1efc6a5eb9346389ba0de2f5ee10a5fa311da347.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\tmp525\react-native-shop-ui-master\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline-base\1.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="050f688115ea65a0292d8483a6ffe6bcdab1e2ef">
+        <dex dex="D:\tmp525\react-native-shop-ui-master\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-imagepipeline-base-1.0.1_89ccf645d42493cd234ae391420e39c2de2bd8ef.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\javax.inject\javax.inject\1\6975da39a7040257bd51d21a231b76c915872d38\javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="D:\tmp525\react-native-shop-ui-master\android\app\build\intermediates\pre-dexed\debug\javax.inject-1_273da2ba53aedc2691b5c6c4485ebe7b12b6e634.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\tmp525\react-native-shop-ui-master\android\app\build\intermediates\exploded-aar\com.facebook.react\react-native\0.46.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c5526d30278eb171f4a1325bd6b927c9057c91f4">
+        <dex dex="D:\tmp525\react-native-shop-ui-master\android\app\build\intermediates\pre-dexed\debug\com.facebook.react-react-native-0.46.2_c7534e4cdec4d05dc3bfe4f0f2ea8708137165c0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\tmp525\react-native-shop-ui-master\android\app\build\intermediates\exploded-aar\com.facebook.fbui.textlayoutbuilder\textlayoutbuilder\1.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="D:\tmp525\react-native-shop-ui-master\android\app\build\intermediates\pre-dexed\debug\com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_77ce2522d67537a46cc89276f86c4f107ad9ee73.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\tmp525\react-native-shop-ui-master\android\app\build\intermediates\exploded-aar\com.facebook.fresco\drawee\1.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5a61f17cd72e20aa4323cbf5f909b7c609619275">
+        <dex dex="D:\tmp525\react-native-shop-ui-master\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-drawee-1.0.1_fa9126df57d1b57eaf87c9163b11a0b94ed254ad.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\tmp525\react-native-shop-ui-master\android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\10.2.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6d0d5e86f5b7203834df01ed78ebfdd5cbf74d48">
+        <dex dex="D:\tmp525\react-native-shop-ui-master\android\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-maps-10.2.4_26050eaf9f266b4f3dbdd62126d01dcf16dc8d54.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.facebook.fbui.textlayoutbuilder\staticlayout-proxy\1.0\f162442a19fff13995fbd51ba414d9ee05579080\staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="D:\tmp525\react-native-shop-ui-master\android\app\build\intermediates\pre-dexed\debug\staticlayout-proxy-1.0_0283216b9bf7dad1d31c87f4be8f1ed4e4500cc6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\tmp525\react-native-shop-ui-master\android\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\jars\libs\internal_impl-24.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="D:\tmp525\react-native-shop-ui-master\android\app\build\intermediates\pre-dexed\debug\internal_impl-24.0.0_a4bc5534fbcb1d83ff6a7a43ec7f523bc6ebf6b0.jar" />
+    </item>
+
+</items>
